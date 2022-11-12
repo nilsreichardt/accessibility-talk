@@ -1,16 +1,11 @@
-# accessibility_keynote
+# Accessibility Talk
 
-A new Flutter project.
+Everyone is different. For this reason it’s important to build products that can
+be used by everyone - no matter if they have any disabilities. But what does it
+take to make your app accessible? How does accessibility work in Flutter? What
+is important? To answer this question we take a deep dive into this
+accessibility and take a look at some pitfalls.
 
-## Getting Started
+## Live Demo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This repository is the code of the talk "Accessibility in Flutter".
