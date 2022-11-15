@@ -200,7 +200,6 @@ class _Image extends StatelessWidget {
       height: 300,
       fit: BoxFit.cover,
       width: double.infinity,
-      semanticLabel: 'A student doing some dance move.',
     );
   }
 }
